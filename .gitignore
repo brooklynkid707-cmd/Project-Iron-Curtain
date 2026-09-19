@@ -1,0 +1,25 @@
+# Operating system
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# Secrets and environment files
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Local output
+*.log
+output/
+temp/
+
+# Raw evidence - review before publication
+evidence/raw/
